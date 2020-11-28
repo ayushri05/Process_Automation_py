@@ -2,7 +2,7 @@
 The process to automate Shipment flow using Python script.
 
 The project is created with the purpose of automating the complete Shipment flow. 
-
+The file 'main.py' import all the files in order to automate the complete flow sequentially.
 The flow includes - 
 
 1.Fetching data from Zuora -
