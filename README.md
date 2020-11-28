@@ -2,7 +2,9 @@
 The process to automate Shipment flow using Python script.
 
 The project is created with the purpose of automating the complete Shipment flow. 
+
 The flow includes - 
+
 1.Fetching data from Zuora -
 The data is extracted using Zconnect APIs. This Automation is completed using 'Auto_async.py' file. The program is developed using various Python libraries like - asyncio, aiohttp, sys etc.
 
